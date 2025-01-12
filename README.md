@@ -2,12 +2,12 @@
 # Counter
 
 Repository of Counter 
-[Games Assignment]( https://github.com/LizzyTrevisan/Tic-Tac-Toe-Game.git)
+[Games Assignment](https://github.com/LizzyTrevisan/REACT-HOOK-COUNTER)
 
 
 
 ## 📑 Document
-- [Document Github](https://github.com/LizzyTrevisan/Tic-Tac-Toe-Game.git)
+- [Document Github](https://github.com/LizzyTrevisan/REACT-HOOK-COUNTER)
 
 ## 📔 Documents
 
