@@ -19,7 +19,7 @@ Repository of Counter
 
 
 ## Overview of the Counter
-This is an online counter using the concept of REACt Hook to increment, reset and decrement the counter numbers.
+This is an online counter using the concept of REACT useState Hook to increment, reset and decrement the counter numbers.
 
 ## Features
 REACT / CSS = VS IDE
