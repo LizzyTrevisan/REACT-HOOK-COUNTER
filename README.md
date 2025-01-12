@@ -25,9 +25,9 @@ A simple counter to demonstrate my knowledge in REACT to increment, decrement an
 REACT and CSS - Counter project
 
 ## Technologies Used
-C#: The primary programming language used for application logic.
+REACT: The primary programming language used for this application 
 
-Windows Forms: For the graphical user interface, providing a responsive and interactive experience.
+VS code: IDE 
 
 
 ## Installation
