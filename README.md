@@ -2,7 +2,7 @@
 # Counter
 
 Repository of Counter 
-[Games Assignment](https://github.com/LizzyTrevisan/REACT-HOOK-COUNTER)
+[Counter Repo](https://github.com/LizzyTrevisan/REACT-HOOK-COUNTER)
 
 
 
